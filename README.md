@@ -1,2 +1,3 @@
 # hello-world
 learning how to use github
+We the people, in order to form a more perfect union, establish justice, and ensure domestic tranquility,...
